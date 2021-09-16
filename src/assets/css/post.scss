@@ -1,0 +1,14 @@
+.main {
+	width: 300px;
+	height: 500px;
+	border: 10px dashed pink;
+	/* background-color: yellow; */
+	padding: 10px;
+	.small {
+		width: 200px;
+		height: 200px;
+		/* background-color: #FF0000; */
+		background-image: url(../images/6.jpg);
+		border: 10px dashed pink;
+	}
+}
